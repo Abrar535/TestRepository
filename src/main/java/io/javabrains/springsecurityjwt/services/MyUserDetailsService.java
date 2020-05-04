@@ -14,5 +14,13 @@ public class MyUserDetailsService implements UserDetailsService {
         System.out.println("ami new "+userName);
         return new User(Integer.toString(1),"foo",new ArrayList<>());
     }
-    //hello 
+    //hello
+
+
+
+
+
+
+
+    //feature-d
 }
